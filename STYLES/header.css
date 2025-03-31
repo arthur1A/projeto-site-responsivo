@@ -1,12 +1,3 @@
-@import url(STYLES/header.css);
-:root{
---cor-de-fundo: #fbff00;
---cor-cabecalho: #FFFFFF;
-}
-body{
-background-color: var(--cor-de-fundo);
-margin: 0;
-}
 .cabecalho{
     background-color: var(--cor-cabecalho);
     padding: 1em;
